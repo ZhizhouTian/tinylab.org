@@ -1,10 +1,10 @@
 ---
-title: "开源硬件迎来8核时代"
+title: "开源硬件迎来 8 核时代"
 author: 'Yao Qi'
-album: pcDuino
-layout: post
+album: pcDuino 入门系列
+layout: news
 permalink: /introduction-of-pcDuino8-Uno/
-description: "本文将介绍LinkSprite公司近日推出的高性能的卡片式电脑。"
+description: "本文将介绍 LinkSprite 公司近日推出的高性能的卡片式电脑。"
 categories:
   - pcDuino
   - ARM
@@ -13,7 +13,7 @@ tags:
   - 开源硬件
 ---
 
-> by  youkee of [TinyLab.org][6]
+> by youkee of [TinyLab.org][6]
 > 2015/11/07 15:09
 
 ## 简介
